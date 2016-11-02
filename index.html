@@ -7,7 +7,7 @@
     <meta name="description" content="Islandora Collaboration Group : Islandora Collaboration Group (ICG) is a group of colleges working to support and extend the Islandora tool through development, resource pooling and advocacy.">
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
+    <link rel="icon" type="image/x-icon" href="favicon-48x48.ico">
     <title>Islandora Collaboration Group</title>
   </head>
 
@@ -16,11 +16,14 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <a id="forkme_banner" href="https://github.com/Islandora-Collaboration-Group">View on GitHub</a>
-
-          <h1 id="project_title">Islandora Collaboration Group</h1>
-          <h2 id="project_tagline">Islandora Collaboration Group (ICG) is a group of colleges working to support and extend the Islandora tool through development, resource pooling and advocacy.</h2>
-
+			<div style="float:left;padding:0 20px 0 0;">
+				<img src="images/icg-logo-165-square.png" title="Islandora Collaboration Group" />
+			</div>
+			<div>
+				<a id="forkme_banner" href="https://github.com/Islandora-Collaboration-Group">View on GitHub</a>
+				<h1 id="project_title">Islandora Collaboration Group</h1>
+				<h2 id="project_tagline">Islandora Collaboration Group (ICG) is a group of colleges working to support and extend the Islandora tool through development, resource pooling and advocacy.</h2>
+			</div>
         </header>
     </div>
 
@@ -28,7 +31,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h1>
-<a id="islandora-collaboration-group-icg" class="anchor" href="#islandora-collaboration-group-icg" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Islandora Collaboration Group (<a href="https://github.com/Islandora-Collaboration-Group">ICG</a>)</h1>
+<a id="islandora-collaboration-group-icg" class="anchor" href="#islandora-collaboration-group-icg" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Islandora Collaboration Group (ICG)</h1>
 
 <h2>
 <a id="about-us" class="anchor" href="#about-us" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About Us</h2>
@@ -38,7 +41,7 @@ ICG has an all-members, face-to-face meeting about every 6 months where overall 
 General communication and meeting announcements happen via the <a href="mailto:islandora-consortium-group@googlegroups.com">islandora-consortium-group@googlegroups.com</a> mailing list. Working groups or project teams may have mailing lists for discussions specific to that team or project.</p>
 
 <ul>
-<li>More Information: <a href="http://islandora-collaboration-group.github.io/icg_information/">ICG About Us</a>
+<li><a href="http://islandora-collaboration-group.github.io/icg_information/">View our About Us page</a>
 </li>
 </ul>
 
@@ -50,6 +53,11 @@ General communication and meeting announcements happen via the <a href="mailto:i
 <li><a href="https://islandora-collaboration-group.github.io/icg_islandora_unit_tests/">ICG Islandora Unit Tests</a></li>
 <li><a href="http://islandora-collaboration-group.github.io/drupalspinner/">ICG Drupal Spinner</a></li>
 </ul>
+
+
+{% for repository in site.github.public_repositories %}
+  * {{ repository.name }}
+{% endfor %}
 
 <h2>
 <a id="members" class="anchor" href="#members" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Members</h2>
@@ -76,7 +84,9 @@ General communication and meeting announcements happen via the <a href="mailto:i
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        <p>
+        <a href="https://github.com/Islandora-Collaboration-Group">ICG on GitHub</a>
+        </p>
       </footer>
     </div>
 
