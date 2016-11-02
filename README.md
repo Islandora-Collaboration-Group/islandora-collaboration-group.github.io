@@ -8,7 +8,13 @@ General communication and meeting announcements happen via the islandora-consort
 
 * More Information: [ICG About Us](http://islandora-collaboration-group.github.io/icg_information/)
 
-## Memberss
+## Highlighted Projects
+
+* [ICG CSV Import](http://islandora-collaboration-group.github.io/icg_csv_import/)
+* [ICG Islandora Unit Tests](https://islandora-collaboration-group.github.io/icg_islandora_unit_tests/)
+* [ICG Drupal Spinner](http://islandora-collaboration-group.github.io/drupalspinner/)
+
+## Members
 
 * 3CDL (Hampshire College, Mount Holyoke, Smith College)
 * [Barnard College](http://digitalcollections.barnard.edu)
@@ -17,12 +23,6 @@ General communication and meeting announcements happen via the islandora-consort
 * [Vassar College](https://digitallibrary.vassar.edu)
 * Wesleyan University
 * [Williams College](http://unbound.williams.edu)
-
-## Highlighted Projects
-
-* [ICG CSV Import](http://islandora-collaboration-group.github.io/icg_csv_import/)
-* [ICG Islandora Unit Tests](https://islandora-collaboration-group.github.io/icg_islandora_unit_tests/)
-* [ICG Drupal Spinner](http://islandora-collaboration-group.github.io/drupalspinner/)
 
 ## How to participate
 
