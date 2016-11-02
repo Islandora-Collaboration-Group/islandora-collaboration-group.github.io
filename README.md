@@ -8,7 +8,7 @@ General communication and meeting announcements happen via the islandora-consort
 
 * More Information: [ICG About Us](http://islandora-collaboration-group.github.io/icg_information/)
 
-## Highlighted Projectss
+## Highlighted Projects
 
 * [ICG CSV Import](http://islandora-collaboration-group.github.io/icg_csv_import/)
 * [ICG Islandora Unit Tests](https://islandora-collaboration-group.github.io/icg_islandora_unit_tests/)
