@@ -8,7 +8,7 @@ General communication and meeting announcements happen via the islandora-consort
 
 * More Information: [ICG About Us](http://islandora-collaboration-group.github.io/icg_information/)
 
-## Members
+## Memberss
 
 * 3CDL (Hampshire College, Mount Holyoke, Smith College)
 * [Barnard College](http://digitalcollections.barnard.edu)
