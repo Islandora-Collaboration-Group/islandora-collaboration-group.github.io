@@ -9,7 +9,10 @@ The Islandora Collaboration Group (ICG), founded in 2011, is a consortium of col
 ## Members
 
 * [Barnard College](http://digitalcollections.barnard.edu)
-* Five College Compass: Digital Collections - Hampshire, Mount Holyoke and Smith Colleges
+* [Five College Compass: Digital Collections](https://compass.fivecolleges.edu/)
+  * [Hampshire College](https://compass.fivecolleges.edu/institution/hampshire-college)
+  * [Mount Holyoke College](https://compass.fivecolleges.edu/institution/mount-holyoke-college)
+  * [Smith College](https://compass.fivecolleges.edu/institution/smith-college)
 * [Grinnell College](https://digital.grinnell.edu/)
 * [Hamilton College](http://dhinitiative.org)
 * [Vassar College](https://digitallibrary.vassar.edu)
