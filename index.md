@@ -1,3 +1,7 @@
+---
+redirect_to: "https://islandora-collaboration-group.github.io/icg_information/"
+---
+
 # Islandora Collaboration Group (ICG)
 
 ## About Us
